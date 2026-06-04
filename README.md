@@ -23,6 +23,13 @@ Capturar e-mails
 Gerar autoridade na área
 Cores da Marca
 
+## Colocar o produto
+
+Nome do produto 
+Preço 
+Descriçaõ
+
+
 ### Utilizar as seguintes cores:
 
 Cor Primária: [COR]
